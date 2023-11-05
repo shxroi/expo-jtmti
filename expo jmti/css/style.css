@@ -366,7 +366,7 @@ h6,
 
 .service-item:hover .service-icon {
     color: var(--dark);
-    background: url(../img/blob-secondary.png) center center no-repeat;
+    background: url(../img/blob-white.png) center center no-repeat;
     background-size: contain;
 }
 
